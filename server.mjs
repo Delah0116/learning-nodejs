@@ -9,6 +9,6 @@ server.listen(3000, '127.0.0.1', () => {
     console.log('Server is listening');
 });
 
-// Arrow functions
-// function handleRequest() {}
-// const handleRequest = () => {}
+Arrow functions
+function handleRequest() {}
+const handleRequest = () => {}
